@@ -217,6 +217,7 @@ GameObject:
   - component: {fileID: 3249314628609922156}
   - component: {fileID: 3554315123346717850}
   - component: {fileID: 9055004952538557827}
+  - component: {fileID: 6598400496855413614}
   m_Layer: 0
   m_Name: Animal_Chicken_White
   m_TagString: Untagged
@@ -280,6 +281,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96e3de402a39546b282036f2dfdb6ba6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &6598400496855413614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1124486980282332608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bade4dffe66e24c339cec7b8e283bff3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 40
 --- !u!1 &1648026846720976273
 GameObject:
   m_ObjectHideFlags: 0
